@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>dog4.jpeg</filename>
+	<path>/Users/fuekimasao/Desktop/code/PyTorch/DataLoader/sample_data/ImageDetectionDataset/JPEGImages/dog4.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1487</xmin>
+			<ymin>1430</ymin>
+			<xmax>3009</xmax>
+			<ymax>4032</ymax>
+		</bndbox>
+	</object>
+</annotation>
