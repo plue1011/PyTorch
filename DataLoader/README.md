@@ -7,4 +7,4 @@
 - text
 
 # DataLoaderのイメージ図
-![DataLoaderのイメージ図](./Images/dataloder.jpg)
+![DataLoaderのイメージ図](https://github.com/plue1011/PyTorch/blob/master/DataLoader/Images/dataloader.jpg)
